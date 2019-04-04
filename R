@@ -1,0 +1,2 @@
+https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R
+https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/
