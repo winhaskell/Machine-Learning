@@ -4,8 +4,15 @@ Text Mining with R
 A Tidy Approach
 Julia Silge and David Robinson
 
+About this book
+This book is focused on practical software examples and data explorations. 
+There are few equations, but a great deal of code. We especially focus on generating real insights from the literature, 
+news, and social media that we analyze.
+
 https://www.tidytextmining.com/preface.html
 
 Text Preprocessing in Python
 https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
+
+
 
